@@ -1,0 +1,9 @@
+{
+  "src_dir": "_book/",
+  "access_key": "Your Key",
+  "secret_key": "Your Key",
+  "bucket": "static",
+  "key_prefix": "docs/",
+  "overwrite": true,
+  "rescan_local": true
+}

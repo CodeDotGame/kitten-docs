@@ -5,12 +5,15 @@
 ## Dependency directory
 ## Commenting this out is preferred by some people, see
 ## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
-node_modules
-
-# Book build output
-_book
+/node_modules
 
 # eBook build output
 *.epub
 *.mobi
 *.pdf
+
+# Log
+*.log
+
+# Local Configuration
+/config/qnconfig.json

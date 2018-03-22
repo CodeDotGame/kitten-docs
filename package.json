@@ -1,0 +1,20 @@
+{
+  "name": "kitten-docs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "qshell": "^0.2.0"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "upload": "qshell qupload ./config/qnconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeDotGame/kitten-docs.git"
+  },
+  "author": "CodeDotGame",
+  "license": "MIT"
+}
