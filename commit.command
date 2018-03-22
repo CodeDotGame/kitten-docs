@@ -1,4 +1,4 @@
 #!/bin/sh
 cd "$(dirname "$0")"
 git add .
-git commit
+git commit -m 'Update Wiki'
